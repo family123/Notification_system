@@ -1,0 +1,4 @@
+python notifications_worker.py 5000 &
+python notifications_worker.py 4000 &
+python notifications_worker.py 3000 &
+python notifications_worker.py 2000 &
