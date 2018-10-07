@@ -1,4 +1,3 @@
-# Notification_system
 # Mail Notifictaion system for jobSeeker and recruiter
  
 Prerequisites:
@@ -77,7 +76,6 @@ TODO:
 
 - Need to add functionality where a recruiter can add multiple jobs
 - Need to add the validation for the recruiter can change only it's added job status.
-
 
 
 
